@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T03:14:32.465Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xDIE3BgumHsGBSy8IaNx" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-18T03:18:18.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="rZZ1lAxxtKj97uSNTCX8" version="21.6.8" type="github">
   <diagram name="第 1 页" id="mxg2_MV8SL3HYpg_Iof4">
-    <mxGraphModel dx="867" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="329" dy="238" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,14 +162,11 @@
         <mxCell id="vc-uLmDQuaaOf_mBzw23-34" value="云账号注册 ？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="450" y="10" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vc-uLmDQuaaOf_mBzw23-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-37" target="vc-uLmDQuaaOf_mBzw23-39">
+        <mxCell id="vc-uLmDQuaaOf_mBzw23-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-37" target="vc-uLmDQuaaOf_mBzw23-103">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-37" value="关联三网 id" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="590" y="18.75" width="90" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="vc-uLmDQuaaOf_mBzw23-39" value="跳转完善信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="18.75" width="100" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-42" target="vc-uLmDQuaaOf_mBzw23-57">
           <mxGeometry relative="1" as="geometry" />
@@ -238,8 +235,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vc-uLmDQuaaOf_mBzw23-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-83" target="vc-uLmDQuaaOf_mBzw23-39">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vc-uLmDQuaaOf_mBzw23-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-83" target="vc-uLmDQuaaOf_mBzw23-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="51.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-88" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vc-uLmDQuaaOf_mBzw23-87">
           <mxGeometry x="-0.7736" relative="1" as="geometry">
@@ -248,6 +247,9 @@
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-83" value="巧房来源 ？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="304" y="1100" width="96" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vc-uLmDQuaaOf_mBzw23-103" value="跳转填写&lt;br&gt;个人信息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" y="15" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
