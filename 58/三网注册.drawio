@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T13:30:35.780Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qFMWZD3_PeHxmdkk2bOT" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T13:38:17.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="SLWKL9HDnNt3Rgp-3zi-" version="21.6.8" type="github">
   <diagram name="第 1 页" id="mxg2_MV8SL3HYpg_Iof4">
-    <mxGraphModel dx="1908" dy="1378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         </mxCell>
         <mxCell id="lluayxy632GNw3IVgE8h-11" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vc-uLmDQuaaOf_mBzw23-8">
           <mxGeometry x="-0.2335" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-1" as="offset" />
+            <mxPoint x="-9" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vc-uLmDQuaaOf_mBzw23-5" target="vc-uLmDQuaaOf_mBzw23-9" edge="1">
@@ -42,6 +42,18 @@
         <mxCell id="lluayxy632GNw3IVgE8h-8" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lluayxy632GNw3IVgE8h-7">
           <mxGeometry x="-0.1268" y="4" relative="1" as="geometry">
             <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lluayxy632GNw3IVgE8h-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-7" target="vc-uLmDQuaaOf_mBzw23-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="322" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lluayxy632GNw3IVgE8h-110" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lluayxy632GNw3IVgE8h-109">
+          <mxGeometry x="-0.5084" y="2" relative="1" as="geometry">
+            <mxPoint x="-2" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-7" value="云账号注册 ？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -102,14 +114,18 @@
         <mxCell id="vc-uLmDQuaaOf_mBzw23-21" value="公司所属&lt;br style=&quot;font-size: 8px;&quot;&gt;城市是否一致 ？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="133" y="457" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lluayxy632GNw3IVgE8h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-24" target="vc-uLmDQuaaOf_mBzw23-7">
+        <mxCell id="lluayxy632GNw3IVgE8h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vc-uLmDQuaaOf_mBzw23-24" target="vc-uLmDQuaaOf_mBzw23-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="323" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="566" />
+              <mxPoint x="250" y="45" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="lluayxy632GNw3IVgE8h-13" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lluayxy632GNw3IVgE8h-12">
           <mxGeometry x="-0.8091" y="1" relative="1" as="geometry">
-            <mxPoint x="-37" y="1" as="offset" />
+            <mxPoint x="1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vc-uLmDQuaaOf_mBzw23-24" value="门店所属&lt;br&gt;城市是否一致 ？" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=8;" parent="1" vertex="1">
