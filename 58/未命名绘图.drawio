@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:36:34.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wPZ6V4H63DjTSMoqB7yF" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T07:53:50.488Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Mmqy0zF0yTdKKLDvpRHW" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1687" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1103" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,78 +19,80 @@
             <mxPoint x="675" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="885.0000000000005" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-33">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BiLRvWoJDc6G_oOxgtWS-33">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="105" as="sourcePoint" />
+            <mxPoint x="920" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="670" y="130" />
-              <mxPoint x="1080" y="130" />
+              <mxPoint x="580" y="145" />
+              <mxPoint x="920" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-7" value="中国网络经纪人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-7" value="三网" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="520" y="70" width="120" height="40" as="geometry" />
         </mxCell>
-        <UserObject label="租房、商业地产" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-12">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="360" y="180" width="140" height="60" as="geometry" />
+        <UserObject label="&lt;font style=&quot;font-size: 19px;&quot;&gt;租房、商业地产&lt;/font&gt;" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="344" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-13">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-14">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-13" value="租房：&lt;br&gt;房源、核验、实勘" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="110" height="60" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-13" value="租房：&lt;br&gt;发布、房源库、推广" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
+          <mxGeometry x="290" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-14" value="商业地产：&lt;br&gt;爱房核验、新房分销" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-14" value="商业地产：&lt;br&gt;发布、房源库、推广、认领" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
+          <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <UserObject label="二手房、爱房" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-4">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="70" y="180" width="140" height="60" as="geometry" />
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=19;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="180" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-5" value="二手房：&lt;br&gt;房源、核验、实勘" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-5" value="二手房：&lt;br&gt;发布、房源库、推广、核验、实勘" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
           <mxGeometry x="10" y="320" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-6" value="爱房：&lt;br&gt;爱房核验、新房分销" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-6" value="爱房：&lt;br&gt;爱房核验、新房分销" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
+          <mxGeometry x="140" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-5">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-6">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" visible="0" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="公寓&lt;br&gt;" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-31">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="600" y="180" width="140" height="60" as="geometry" />
+        <UserObject label="公寓&lt;br style=&quot;font-size: 19px;&quot;&gt;" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=19;" vertex="1" parent="1">
+            <mxGeometry x="510" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-32" target="BiLRvWoJDc6G_oOxgtWS-36">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-32" target="BiLRvWoJDc6G_oOxgtWS-36" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="写字楼&lt;br&gt;React + Antd" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-32">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="810" y="180" width="140" height="60" as="geometry" />
+        <UserObject label="写字楼" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=19;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="680" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-96" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-33" target="BiLRvWoJDc6G_oOxgtWS-95">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-96" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-33" target="BiLRvWoJDc6G_oOxgtWS-95" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="其它&lt;br&gt;php 老页面" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-33">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="1010" y="180" width="140" height="60" as="geometry" />
+        <UserObject label="其它&lt;br style=&quot;font-size: 19px;&quot;&gt;php 老页面" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=19;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="850" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-36" value="发布页" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-36" value="发布页" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
           <mxGeometry x="827" y="320" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BiLRvWoJDc6G_oOxgtWS-52" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98BF21;fillColor=#A7C942;shadow=1;align=left;" vertex="1" parent="1">
@@ -204,8 +206,8 @@
             <mxRectangle width="167" height="33" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BiLRvWoJDc6G_oOxgtWS-95" value="二手房、商业地产、首页、公共等" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-          <mxGeometry x="1025" y="320" width="110" height="60" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-95" value="二手房、商业地产、首页、账号等" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" visible="0" parent="1">
+          <mxGeometry x="915" y="320" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
