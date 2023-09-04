@@ -1,41 +1,212 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T13:49:48.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.8" etag="fOnAZJGdwdTlo3_b9AQv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T01:36:34.485Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wPZ6V4H63DjTSMoqB7yF" version="21.6.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110.0434782608695" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="355" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="885.0000000000005" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-7" target="BiLRvWoJDc6G_oOxgtWS-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="130" />
+              <mxPoint x="1080" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-7" value="中国网络经纪人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="租房、商业地产" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="360" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-12" target="BiLRvWoJDc6G_oOxgtWS-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-13" value="租房：&lt;br&gt;房源、核验、实勘" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-14" value="商业地产：&lt;br&gt;爱房核验、新房分销" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="二手房、爱房" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="70" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-5" value="二手房：&lt;br&gt;房源、核验、实勘" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="10" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-6" value="爱房：&lt;br&gt;爱房核验、新房分销" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-4" target="BiLRvWoJDc6G_oOxgtWS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="公寓&lt;br&gt;" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-31">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="600" y="180" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-37" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-32" target="BiLRvWoJDc6G_oOxgtWS-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="写字楼&lt;br&gt;React + Antd" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-32">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="810" y="180" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-96" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;" edge="1" parent="1" source="BiLRvWoJDc6G_oOxgtWS-33" target="BiLRvWoJDc6G_oOxgtWS-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="其它&lt;br&gt;php 老页面" treeRoot="1" id="BiLRvWoJDc6G_oOxgtWS-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="1010" y="180" width="140" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-36" value="发布页" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="827" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-52" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98BF21;fillColor=#A7C942;shadow=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="430" y="460" width="470" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-53" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry width="470" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-54" value="业务" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-53">
+          <mxGeometry width="156" height="47" as="geometry">
+            <mxRectangle width="156" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-55" value="技术栈" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-53">
+          <mxGeometry x="156" width="147" height="47" as="geometry">
+            <mxRectangle width="147" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-56" value="备注" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-53">
+          <mxGeometry x="303" width="167" height="47" as="geometry">
+            <mxRectangle width="167" height="47" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry y="47" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-58" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{&amp;quot;mid&amp;quot;:&amp;quot;sYexcHJhH_Qoe0wlfUT4P&amp;quot;,&amp;quot;style&amp;quot;:0,&amp;quot;dataid&amp;quot;:1,&amp;quot;isWideTable&amp;quot;:true},&amp;quot;tableRow&amp;quot;,{&amp;quot;mid&amp;quot;:null},&amp;quot;tableCell&amp;quot;,{&amp;quot;style&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;align&amp;quot;:0,&amp;quot;width&amp;quot;:0,&amp;quot;colwidth&amp;quot;:[144],&amp;quot;verticalAlign&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;mid&amp;quot;:null}]&quot; style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; id=&quot;0&quot; href=&quot;https://igit.58corp.com/_fe/ershoufang/micro-front-end/broker-main&quot; class=&quot;custom-link&quot;&gt;二手房、爱房&lt;/a&gt;&lt;/p&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-57">
+          <mxGeometry width="156" height="40" as="geometry">
+            <mxRectangle width="156" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-59" value="Node + Koa + qiankun" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-57">
+          <mxGeometry x="156" width="147" height="40" as="geometry">
+            <mxRectangle width="147" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-60" value="&lt;div style=&quot;font-size: 12px;&quot;&gt;1）单模版、1个&lt;/div&gt;&lt;div style=&quot;font-size: 12px;&quot;&gt;2）轻、有部分302逻辑&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=left;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-57">
+          <mxGeometry x="303" width="167" height="40" as="geometry">
+            <mxRectangle width="167" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-61" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry y="87" width="470" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-62" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{&amp;quot;mid&amp;quot;:&amp;quot;sYexcHJhH_Qoe0wlfUT4P&amp;quot;,&amp;quot;style&amp;quot;:0,&amp;quot;dataid&amp;quot;:1,&amp;quot;isWideTable&amp;quot;:true},&amp;quot;tableRow&amp;quot;,{&amp;quot;mid&amp;quot;:null},&amp;quot;tableCell&amp;quot;,{&amp;quot;style&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;align&amp;quot;:0,&amp;quot;width&amp;quot;:180.66666666666666,&amp;quot;colwidth&amp;quot;:[144],&amp;quot;verticalAlign&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;mid&amp;quot;:null}]&quot; class=&quot;paragraph text-align-type-left&quot; style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; id=&quot;0&quot; href=&quot;https://igit.58corp.com/fangfe/vip-broker&quot; class=&quot;custom-link&quot;&gt;租房、商业地产&lt;/a&gt;&lt;/p&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-61">
+          <mxGeometry width="156" height="45" as="geometry">
+            <mxRectangle width="156" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-63" value="Node + NestJs + &lt;br&gt;Node-SCF + umi" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-61">
+          <mxGeometry x="156" width="147" height="45" as="geometry">
+            <mxRectangle width="147" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-64" value="&lt;div&gt;1) 多模版、10个&lt;/div&gt;&lt;div&gt;2）重、业务代码耦合严重&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-61">
+          <mxGeometry x="303" width="167" height="45" as="geometry">
+            <mxRectangle width="167" height="45" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-65" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry y="132" width="470" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-66" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{&amp;quot;mid&amp;quot;:&amp;quot;sYexcHJhH_Qoe0wlfUT4P&amp;quot;,&amp;quot;style&amp;quot;:0,&amp;quot;dataid&amp;quot;:1,&amp;quot;isWideTable&amp;quot;:true},&amp;quot;tableRow&amp;quot;,{&amp;quot;mid&amp;quot;:null},&amp;quot;tableCell&amp;quot;,{&amp;quot;style&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;align&amp;quot;:0,&amp;quot;width&amp;quot;:0,&amp;quot;colwidth&amp;quot;:[144],&amp;quot;verticalAlign&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;mid&amp;quot;:null}]&quot; style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; id=&quot;0&quot; href=&quot;https://igit.58corp.com/fangfe/vip-gongyu-node-publish&quot; class=&quot;custom-link&quot;&gt;公寓&lt;/a&gt;&lt;/p&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-65">
+          <mxGeometry width="156" height="43" as="geometry">
+            <mxRectangle width="156" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-67" value="Node + NestJs + &lt;br&gt;Node-SCF + umi" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-65">
+          <mxGeometry x="156" width="147" height="43" as="geometry">
+            <mxRectangle width="147" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-68" value="&lt;div&gt;1) 多模版、2个&lt;/div&gt;&lt;div&gt;2）重、业务代码耦合严重&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=left;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-65">
+          <mxGeometry x="303" width="167" height="43" as="geometry">
+            <mxRectangle width="167" height="43" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry y="175" width="470" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-70" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{&amp;quot;mid&amp;quot;:&amp;quot;sYexcHJhH_Qoe0wlfUT4P&amp;quot;,&amp;quot;style&amp;quot;:0,&amp;quot;dataid&amp;quot;:1,&amp;quot;isWideTable&amp;quot;:true},&amp;quot;tableRow&amp;quot;,{&amp;quot;mid&amp;quot;:null},&amp;quot;tableCell&amp;quot;,{&amp;quot;style&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;align&amp;quot;:0,&amp;quot;width&amp;quot;:0,&amp;quot;colwidth&amp;quot;:[144],&amp;quot;verticalAlign&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;mid&amp;quot;:null}]&quot; style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; id=&quot;0&quot; href=&quot;https://vip.anjuke.com/sydcpublish/xzlPublish?from=manage&quot; class=&quot;custom-link&quot;&gt;写字楼发布页&lt;/a&gt;&lt;/p&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-69">
+          <mxGeometry width="156" height="32" as="geometry">
+            <mxRectangle width="156" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-71" value="React + Antd" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-69">
+          <mxGeometry x="156" width="147" height="32" as="geometry">
+            <mxRectangle width="147" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-72" value="&amp;nbsp;spa、无左侧导航菜单" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-69">
+          <mxGeometry x="303" width="167" height="32" as="geometry">
+            <mxRectangle width="167" height="32" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-101" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-52">
+          <mxGeometry y="207" width="470" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-102" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;table&amp;quot;,{&amp;quot;mid&amp;quot;:&amp;quot;sYexcHJhH_Qoe0wlfUT4P&amp;quot;,&amp;quot;style&amp;quot;:0,&amp;quot;dataid&amp;quot;:1,&amp;quot;isWideTable&amp;quot;:true},&amp;quot;tableRow&amp;quot;,{&amp;quot;mid&amp;quot;:null},&amp;quot;tableCell&amp;quot;,{&amp;quot;style&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;colspan&amp;quot;:1,&amp;quot;rowspan&amp;quot;:1,&amp;quot;align&amp;quot;:0,&amp;quot;width&amp;quot;:180.66666666666666,&amp;quot;colwidth&amp;quot;:[144],&amp;quot;verticalAlign&amp;quot;:null,&amp;quot;backgroundColor&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;mid&amp;quot;:null}]&quot; style=&quot;text-align: left&quot;&gt;&lt;a target=&quot;_blank&quot; id=&quot;0&quot; href=&quot;https://igit.58corp.com/_broker-php/ajk-broker&quot; class=&quot;custom-link&quot;&gt;php 老页面&lt;/a&gt;&lt;/p&gt;" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;strokeColor=#98BF21;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-101">
+          <mxGeometry width="156" height="33" as="geometry">
+            <mxRectangle width="156" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-103" value="php + jquery" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;strokeColor=#98BF21;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-101">
+          <mxGeometry x="156" width="147" height="33" as="geometry">
+            <mxRectangle width="147" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-104" value="左侧菜单写死了，不方便维护" style="connectable=0;recursiveResize=0;whiteSpace=wrap;html=1;align=left;strokeColor=#98BF21;" vertex="1" parent="BiLRvWoJDc6G_oOxgtWS-101">
+          <mxGeometry x="303" width="167" height="33" as="geometry">
+            <mxRectangle width="167" height="33" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BiLRvWoJDc6G_oOxgtWS-95" value="二手房、商业地产、首页、公共等" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="1025" y="320" width="110" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
